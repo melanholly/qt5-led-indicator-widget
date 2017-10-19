@@ -7,6 +7,8 @@ This repository contains the class and an example project.
 
 The class have some basic functionality and is easy to use.
 
+The repository have a basic example app that doggles the led widget. It looks like this:
+![Screenshot](https://user-images.githubusercontent.com/1505809/31757257-d6999286-b4b0-11e7-8031-f799577a6685.png)
 
 
 Basic example:
