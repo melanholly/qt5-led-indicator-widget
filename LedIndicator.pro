@@ -4,19 +4,13 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
-
-greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
+include(LedIndicator.pri)
 
 TARGET = LedIndicator
 TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        ledindicatortest.cpp\
-        ledindicator.cpp
-
-HEADERS  += ledindicatortest.h\
-         ledindicator.h
-
+        ledindicatortest.cpp
+HEADERS  += ledindicatortest.h
 FORMS    += ledindicatortest.ui

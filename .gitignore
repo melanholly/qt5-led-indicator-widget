@@ -19,3 +19,9 @@
 *.exe
 *.out
 *.app
+
+LedIndicator
+ui_*
+moc_*
+*.pro.user
+Makefile
